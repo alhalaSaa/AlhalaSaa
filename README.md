@@ -5,8 +5,7 @@
 ### 👋 Hi, I'm **Alhala Saad**
 **Web Developer | Programmer**
 
-I build complete web applications with a strong focus on backend logic,  
-database integration, and clean, maintainable code 🚀
+I build web applications using clean code, databases, and practical solutions 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlhalaSaad&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -16,11 +15,10 @@ database integration, and clean, maintainable code 🚀
 
 ## 👨‍💻 About Me
 
-- 💻 Web Developer specialized in **PHP-based web applications**
-- 🗄️ Strong background in **Databases (MySQL, SQLite)**
-- 🌐 Build full websites from **Frontend → Backend → Database**
-- ⚙️ Experienced in converting designs and requirements into working systems
-- ⚡ I focus on practical projects and real-world solutions
+- 💻 Web Developer specialized in **PHP & Web Technologies**
+- 🗄️ Strong in **Databases & Backend logic**
+- 🌐 Build complete websites from **UI → Backend → Database**
+- ⚡ Love learning by building real projects
 
 ---
 
@@ -45,11 +43,11 @@ database integration, and clean, maintainable code 🚀
 
 ## 📂 What I Can Do
 
-- ✔️ Build dynamic and data-driven websites using **PHP**
-- ✔️ Design, manage, and query **relational databases**
-- ✔️ Develop full **CRUD systems**
-- ✔️ Handle backend logic, forms, and authentication
-- ✔️ Connect frontend interfaces with backend services efficiently
+- ✔️ Build dynamic websites with **PHP**
+- ✔️ Design & manage **Databases**
+- ✔️ CRUD systems (Create / Read / Update / Delete)
+- ✔️ Connect Frontend with Backend
+- ✔️ Authentication & Forms handling
 
 ---
 
@@ -57,10 +55,9 @@ database integration, and clean, maintainable code 🚀
 
 ```php
 class WebDeveloper {
-    public $expertise = [
-        "Backend Development" => ["PHP", "MySQL"],
-        "Frontend Development" => ["HTML", "CSS", "JavaScript"],
-        "Core Skills" => ["CRUD Systems", "Database Design", "Backend Logic"],
+    public $skills = [
+        "Backend" => ["PHP", "MySQL"],
+        "Frontend" => ["HTML", "CSS", "JavaScript"],
         "Tools" => ["Git", "XAMPP", "VS Code"]
     ];
 }
